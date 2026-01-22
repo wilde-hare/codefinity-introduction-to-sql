@@ -1,1 +1,3 @@
-SELECT ____ FROM ____;
+select capital from country
+
+
