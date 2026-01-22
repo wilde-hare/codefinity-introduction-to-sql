@@ -1,3 +1,3 @@
-SELECT continent 
+SELECT capital 
 FROM country 
-ORDER BY continent;
+ORDER BY capital;
