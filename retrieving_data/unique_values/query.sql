@@ -1,0 +1,1 @@
+    SELECT distinct region FROM country
